@@ -1,34 +1,7 @@
-# c-programming
-learning project
+# C Programming
 
-# ATM Simulator
+My repository for learning and practicing C programming concepts.
 
-A beginner-level ATM simulator written in C to practice basic programming concepts.
-
-## Features
-
-* Check balance
-* Deposit money
-* Withdraw money
-* Exit the program
-
-## Concepts Practiced
-
-* Variables
-* `if/else`
-* `switch`
-* User input with `scanf`
-* Basic program logic
-
-## How to Run
-
-Compile and run the program using a C compiler:
-
-```bash
-gcc atm-simulator.c -o atm
-./atm
-```
-
-## Status
-
-Completed as part of my C programming practice.
+## Mini-Projects
+* **[ATM Simulator](./mini-projects/atm-simulator/)** - A beginner-level ATM simulator practicing basic control flow.
+* **[Digital Time Validator](./mini-projects/digital-time-validator/)** - A work time classifier and boundary validator.
